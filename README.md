@@ -12,9 +12,9 @@ Workflow:
   Cleaned and transformed data using SQL
   
   Created analytical views for:
-  Budget vs. actual variance comparisons
-  Rolling 3-month averages
-  Month-over-month growth
+  Budget vs. actual variance comparisons,
+  Rolling 3-month averages,
+  Month-over-month growth, and
   Spend breakdown at department-level
   
   Exported processed data into Excel
