@@ -1,6 +1,6 @@
 # Budget_Analysis_Project
 
-Financial Budget Analysis Dashboard (SQL + Exel)
+Financial Budget Analysis Dashboard (SQL + Excel)
 This project analyzes company budget vs. actual spending using SQL and Excel to simulate real-world Financial Analysis.
 
 The goal of this project was to transform raw financial data into actionable insights through a structured data pipeline and dashboard.
